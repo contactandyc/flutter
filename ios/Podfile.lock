@@ -1,0 +1,41 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - health_kit (0.0.1):
+    - Flutter
+  - health_kit_reporter (2.0.4):
+    - Flutter
+    - HealthKitReporter
+  - HealthKitReporter (1.6.9)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - health_kit (from `.symlinks/plugins/health_kit/ios`)
+  - health_kit_reporter (from `.symlinks/plugins/health_kit_reporter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - HealthKitReporter
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  health_kit:
+    :path: ".symlinks/plugins/health_kit/ios"
+  health_kit_reporter:
+    :path: ".symlinks/plugins/health_kit_reporter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_local_notifications: 0c0b1ae97e741e1521e4c1629a459d04b9aec743
+  health_kit: 055609afe9c9e94b661b1739258ff940818cf921
+  health_kit_reporter: d88d6d571215f7eaf4dc7412e551e139080681cd
+  HealthKitReporter: 655b234e8e6e6097fe5f05c27e67df5a99771501
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
